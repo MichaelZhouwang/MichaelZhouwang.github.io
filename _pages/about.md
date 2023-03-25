@@ -32,6 +32,8 @@ News
 
 \[2023.01]. Got one paper accepted to **EACL 2023**. Thanks to all my collaborators!  
 
+\[2023.01]. Received **Baidu PhD Fellowship (百度奖学金, 10 recipients worldwide)**. Thanks to Baidu and all my collaborators!  
+
 \[2022.10]. Got one paper accepted to **EMNLP 2022**. Thanks to all my collaborators and see you in Abu Dhabi!
 
 \[2022.5]. Got one paper accepted to **ICML 2022**. Thanks to all my collaborators!
