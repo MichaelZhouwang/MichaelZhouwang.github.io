@@ -15,19 +15,23 @@ I am actively looking for research collaborations! For master/undergrad students
 
 Research
 ======
-My primary research goal is to apply Deep Learning for Natural Language Processing and develop **Language Technology for All**. To achievethis goal and make language technology accessible in most people’s lives, I identify two major research topics that I’m interested in: **efficiency** and **trustworthiness** of NLP models. Efficiency involves both the amount of **computation** and **data** required for (pre-)training and using NLP models. Trustworthiness involves the **interpretability**, **fairness**, and **robustness** with respect to adversarial attacks and out-of-distribution samples.  
+My research interest lies in AGI. My current research goal is to bridge the gap between powerful pre-trained large language models (LLMs) such as GPTs and their impact on the lives of humankind, and develop **Language Technology for All**. \\
 
-Specifically I am interested in the following research topics:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Natural language generation, creative text generation, evaluation for NLG models.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Commonsense reasoning and knowledge-based reasoning.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Robust NLP models for OOD samples and reducing spurious dataset biases.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Interpretability, explainability, biases, and fairness for NLP models.**  
+To achieve this goal and make LLMs more accessible in most people’s lives, I identify two major research topics that I’m interested in: **creative generation** with LLMs (AIGC) and **alignment** of LLMs. Creative text generation with LLMs involves methods to better **control** and **customize** LLMs, and enable **interactive** or **collaborative** text generation. Alignment means aligning LLMs with human values, which includes the **interpretability**, **fairness**, and **safety** of LLMs and their applications.
+
+Specifically I am interested in the following research topics:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Efficient NLP with LLMs and Learning NLP models from high-level supervision**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Natural language generation, creative text generation, evaluation for NLG models.** 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Multi-modality**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Commonsense reasoning and knowledge-based reasoning.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Interpretability, explainability, biases, and fairness for NLP models.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Robust NLP models for OOD samples and reducing spurious dataset biases.**  
 I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.  
 
 News
 ======
+\[2023.01]. Got one paper accepted to **ICML 2023**. Thanks to all my collaborators!  
+
 \[2023.01]. Got one paper accepted to **ICLR 2023**. Thanks to all my collaborators!  
 
 \[2023.01]. Got one paper accepted to **EACL 2023**. Thanks to all my collaborators!  
