@@ -19,7 +19,7 @@ My research interest lies in AGI. My current research goal is to bridge the gap 
 
 To achieve this goal and make LLMs more accessible in most people’s lives, I identify two major research topics that I’m interested in: **creative generation** with LLMs (AIGC) and **alignment** of LLMs. Creative text generation with LLMs involves methods to better **control** and **customize** LLMs, and enable **interactive** or **collaborative** text generation. Alignment means aligning LLMs with human values, which includes the **interpretability**, **fairness**, and **safety** of LLMs and their applications.
 
-Specifically I am interested in the following research topics:
+Specifically I am interested in the following research topics:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Efficient NLP with LLMs and Learning NLP models from high-level supervision**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Natural language generation, creative text generation, evaluation for NLG models.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Multi-modality**  
