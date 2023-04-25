@@ -8,6 +8,15 @@ author_profile: true
 (* indicates equal contribution)
 
 ## 2023
+
+* Improving Sequence-to-Sequence Pre-training via Sequence Span Rewriting  
+  **Wangchunshu Zhou**, Yuchen Eleanor Jiang, Ethan Wilcox, Ryan Cotterell, Mrinmaya Sachan   
+  *in Proc. of **ICML 2023***  
+
+* Improving Sequence-to-Sequence Pre-training via Sequence Span Rewriting  
+  Ying Jiao, Kumar Shridhar, Peng Cui, **Wangchunshu Zhou** and Mrinmaya Sachan  
+  *in Proc. of **AIED 2023***  
+
 * Predicting Reference-Based MT Metrics Without the Reference  
   Vilém Zouhar, Shehzaad Dhuliawala, **Wangchunshu Zhou**, Nico Daheim, Tom Kocmi, Yuchen Eleanor Jiang, Mrinmaya Sachan  
   *in Proc. of **EACL 2023***  
