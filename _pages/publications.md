@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2023
 
-* Improving Sequence-to-Sequence Pre-training via Sequence Span Rewriting  
+* Controlled Text Generation with Natural Language Instructions  
   **Wangchunshu Zhou**, Yuchen Eleanor Jiang, Ethan Wilcox, Ryan Cotterell, Mrinmaya Sachan   
   *in Proc. of **ICML 2023***  
 
