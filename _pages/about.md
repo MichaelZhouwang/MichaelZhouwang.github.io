@@ -15,7 +15,7 @@ I am actively looking for research collaborations! For master/undergrad students
 
 Research
 ======
-My research interest lies in AGI. My current research goal is to bridge the gap between powerful pre-trained large language models (LLMs) such as GPTs and their impact on the lives of humankind, and develop **Language Technology for All**. \\
+My research interest lies in AGI. My current research goal is to bridge the gap between powerful pre-trained large language models (LLMs) such as GPTs and their impact on the lives of humankind, and develop **Language Technology for All**.  
 
 To achieve this goal and make LLMs more accessible in most people’s lives, I identify two major research topics that I’m interested in: **creative generation** with LLMs (AIGC) and **alignment** of LLMs. Creative text generation with LLMs involves methods to better **control** and **customize** LLMs, and enable **interactive** or **collaborative** text generation. Alignment means aligning LLMs with human values, which includes the **interpretability**, **fairness**, and **safety** of LLMs and their applications.
 
