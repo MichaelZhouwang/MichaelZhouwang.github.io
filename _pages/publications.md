@@ -9,6 +9,14 @@ author_profile: true
 
 ## 2023
 
+* Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training  
+  Yan Zeng\*, **Wangchunshu Zhou***, Ao Luo\*, Ziming Cheng, Xinsong Zhang  
+  *in Proc. of **ACL 2023***  
+
+* Don't Group, Just Rescore: A Simpler Alternative to Constrained Beam Search    
+  Yuchen Eleanor Jiang, Tianyu Liu, **Wangchunshu Zhou**, Kexun Zhang, Vilém Zouhar, Alex Warstadt, Mrinmaya Sachan, Ryan Cotterell  
+  *in Proc. of **ACL 2023***  
+
 * Controlled Text Generation with Natural Language Instructions  
   **Wangchunshu Zhou**, Yuchen Eleanor Jiang, Ethan Wilcox, Ryan Cotterell, Mrinmaya Sachan   
   *in Proc. of **ICML 2023***  
