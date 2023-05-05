@@ -29,6 +29,8 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2023.01]. Got six papers accepted to **ACL 2023 + Findings**. Thanks to all my collaborators!  
+
 \[2023.01]. Got one paper accepted to **ICML 2023**. Thanks to all my collaborators!  
 
 \[2023.01]. Got one paper accepted to **ICLR 2023**. Thanks to all my collaborators!  
