@@ -9,6 +9,22 @@ author_profile: true
 
 ## 2023
 
+* ModSeq: Modularized Encoder-Decoder Models for Flexible Sequence-to-Sequence Compression   
+  **Wangchunshu Zhou**, Ronan Le Bra, Yejin Choi  
+  *in Proc. of **ACL 2023 (Findings)***  
+
+* Commonsense Knowledge Transfer for Pre-trained Language Models  
+  **Wangchunshu Zhou**, Ronan Le Bra, Yejin Choi  
+  *in Proc. of **ACL 2023 (Findings)***  
+
+* Learning to Predict Persona Information for Dialogue Personalization without Explicit Persona Description    
+  **Wangchunshu Zhou**, Qifei Li, Chenle Li    
+  *in Proc. of **ACL 2023 (Findings)***  
+
+* EfficientVLM: Fast and Accurate Vision-Language Models via Knowledge Distillation and Modal-adaptive Pruning    
+  Tiannan Wang\*, **Wangchunshu Zhou***, Yan Zeng, Xinsong Zhang   
+  *in Proc. of **ACL 202 (Findings)***  
+
 * Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training  
   Yan Zeng\*, **Wangchunshu Zhou***, Ao Luo\*, Ziming Cheng, Xinsong Zhang  
   *in Proc. of **ACL 2023***  
