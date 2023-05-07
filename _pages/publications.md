@@ -22,11 +22,11 @@ author_profile: true
   *in Proc. of **ACL 2023 (Findings)***  
 
 * EfficientVLM: Fast and Accurate Vision-Language Models via Knowledge Distillation and Modal-adaptive Pruning    
-  Tiannan Wang\*, **Wangchunshu Zhou***, Yan Zeng, Xinsong Zhang   
+  Tiannan Wang\*, **Wangchunshu Zhou\***, Yan Zeng, Xinsong Zhang   
   *in Proc. of **ACL 202 (Findings)***  
 
 * Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training  
-  Yan Zeng\*, **Wangchunshu Zhou***, Ao Luo\*, Ziming Cheng, Xinsong Zhang  
+  Yan Zeng\*, **Wangchunshu Zhou\***, Ao Luo\*, Ziming Cheng, Xinsong Zhang  
   *in Proc. of **ACL 2023***  
 
 * Don't Group, Just Rescore: A Simpler Alternative to Constrained Beam Search    
