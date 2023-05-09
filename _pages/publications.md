@@ -23,7 +23,7 @@ author_profile: true
 
 * EfficientVLM: Fast and Accurate Vision-Language Models via Knowledge Distillation and Modal-adaptive Pruning    
   Tiannan Wang\*, **Wangchunshu Zhou\***, Yan Zeng, Xinsong Zhang   
-  *in Proc. of **ACL 202 (Findings)***  
+  *in Proc. of **ACL 2023 (Findings)***  
 
 * Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training  
   Yan Zeng\*, **Wangchunshu Zhou\***, Ao Luo\*, Ziming Cheng, Xinsong Zhang  
