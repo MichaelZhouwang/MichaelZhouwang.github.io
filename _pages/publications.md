@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2023
 
-* ModSeq: Modularized Encoder-Decoder Models for Flexible Sequence-to-Sequence Compression   
+* Modular Transformers: Compressing Transformers into Modularized Layers for Flexible Efficient Inference  
   **Wangchunshu Zhou**, Ronan Le Bra, Yejin Choi  
   *in Proc. of **ACL 2023 (Findings)***  
 
