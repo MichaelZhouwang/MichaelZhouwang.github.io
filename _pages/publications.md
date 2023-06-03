@@ -10,11 +10,11 @@ author_profile: true
 ## 2023
 
 * Modular Transformers: Compressing Transformers into Modularized Layers for Flexible Efficient Inference  
-  **Wangchunshu Zhou**, Ronan Le Bra, Yejin Choi  
+  **Wangchunshu Zhou**, Ronan Le Bras, Yejin Choi  
   *in Proc. of **ACL 2023 (Findings)***  
 
 * Commonsense Knowledge Transfer for Pre-trained Language Models  
-  **Wangchunshu Zhou**, Ronan Le Bra, Yejin Choi  
+  **Wangchunshu Zhou**, Ronan Le Bras, Yejin Choi  
   *in Proc. of **ACL 2023 (Findings)***  
 
 * Learning to Predict Persona Information for Dialogue Personalization without Explicit Persona Description    
