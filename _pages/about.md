@@ -35,7 +35,7 @@ News
 
 \[2023.04]. Quit from Ph.D. study and launched [AIWaves Inc.](https://www.aiwaves.org/) together with [Eleanor](https://www.elejiang.me/).   
 
-\[2023.01]. Got six papers accepted to **ACL 2023 + Findings**. Thanks to all my collaborators!  
+\[2023.01]. Got five papers accepted to **ACL 2023 + Findings**. Thanks to all my collaborators!  
 
 \[2023.01]. Got one paper accepted to **ICML 2023**. Thanks to all my collaborators!  
 
