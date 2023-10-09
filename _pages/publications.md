@@ -9,6 +9,26 @@ author_profile: true
 
 ## 2023
 
+* Evaluate Large Language Models on Controlled Generation Tasks  
+  Jiao Sun\*, Yufei Tian\*, **Wangchunshu Zhou\***, Nan Xu\*, Qian Hu, John Frederick Wieting, Xuezhe Ma  
+  *in Proc. of **EMNLP 2023***  
+
+* Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models     
+  Yifan Hou, Jiaoda Li, Yu Fei, Alessandro Stolfo, **Wangchunshu Zhou**, Guangtao Zeng, Antoine Bosselut, Mrinmaya Sachan  
+  *in Proc. of **EMNLP 2023***  
+
+* Doolittle: Benchmarks and Corpora for Academic Writing Formalization      
+  Shizhe Diao, Yongyu Lei, Liangming Pan, Tianqing Fang, **Wangchunshu Zhou**, Sedrick Scott Keh, Min-Yen Kan, Tong Zhang  
+  *in Proc. of **EMNLP 2023***  
+
+* Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models   
+  Ruida Wang, **Wangchunshu Zhou**, Mrinmaya Sachan   
+  *in Proc. of **EMNLP 2023 (Findings)***  
+
+* To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis    
+  Fuzhao Xue, Yao Fu, **Wangchunshu Zhou**, Zangwei Zheng, Yang You  
+  *in Proc. of **NeurIPS 2023***  
+
 * Modular Transformers: Compressing Transformers into Modularized Layers for Flexible Efficient Inference  
   **Wangchunshu Zhou**, Ronan Le Bras, Yejin Choi  
   *in Proc. of **ACL 2023 (Findings)***  
@@ -27,10 +47,6 @@ author_profile: true
 
 * Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training  
   Yan Zeng\*, **Wangchunshu Zhou\***, Ao Luo\*, Ziming Cheng, Xinsong Zhang  
-  *in Proc. of **ACL 2023***  
-
-* Don't Group, Just Rescore: A Simpler Alternative to Constrained Beam Search    
-  Yuchen Eleanor Jiang, Tianyu Liu, **Wangchunshu Zhou**, Kexun Zhang, Vilém Zouhar, Alex Warstadt, Mrinmaya Sachan, Ryan Cotterell  
   *in Proc. of **ACL 2023***  
 
 * Controlled Text Generation with Natural Language Instructions  
