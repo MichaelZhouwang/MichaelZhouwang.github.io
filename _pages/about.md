@@ -29,6 +29,12 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2023.10]. Got four papers accepted to **EMNLP 2023 + Findings**. Thanks to all my collaborators!  
+
+\[2023.09]. Got one paper accepted to **NeurIPS 2023**. Thanks to all my collaborators!  
+
+\[2023.04]. Quit from Ph.D. study and launched [AIWaves Inc.](https://www.aiwaves.org/) together with [Eleanor](https://www.elejiang.me/).   
+
 \[2023.01]. Got six papers accepted to **ACL 2023 + Findings**. Thanks to all my collaborators!  
 
 \[2023.01]. Got one paper accepted to **ICML 2023**. Thanks to all my collaborators!  
@@ -55,9 +61,9 @@ News
 
 \[2020.9]. Got one paper accepted to **COLING 2020**. Thanks and Congrats to Qifei!
 
-\[2020.9]. Got two paper accepted to **NeurIPS 2020**. Thanks to all my collaborators!
+\[2020.9]. Got two papers accepted to **NeurIPS 2020**. Thanks to all my collaborators!
 
-\[2020.9]. Got five paper accepted to **EMNLP 2020** (1 in main conference and 4 in findings) Thanks to all my collaborators!
+\[2020.9]. Got five papers accepted to **EMNLP 2020** (1 in main conference and 4 in findings) Thanks to all my collaborators!
 
 \[2019.12]. Got one paper accepted by **ICLR 2020**. Thanks to all my collaborators!  
 
