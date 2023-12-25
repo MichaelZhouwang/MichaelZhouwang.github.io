@@ -9,6 +9,10 @@ author_profile: true
 
 ## 2023
 
+* X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks  
+  Yan Zeng, Xinsong Zhang, Hang Li, Jiawei Wang, Jipeng Zhang, **Wangchunshu Zhou**  
+  *in Proc. of **T-PAMI***  
+
 * Evaluate Large Language Models on Controlled Generation Tasks  
   Jiao Sun\*, Yufei Tian\*, **Wangchunshu Zhou\***, Nan Xu\*, Qian Hu, John Frederick Wieting, Xuezhe Ma  
   *in Proc. of **EMNLP 2023***  
