@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am **Wangchunshu Zhou**, cofounder&CTO of [AIWaves Inc.](https://www.aiwaves.org/) I was a Ph.D. student in the Institute of Machine Learning at ETH Zürich advised by [Ryan Cotterell](https://rycolab.io/) and [Mrinmaya Sachan](http://www.mrinmaya.io/). I obtained my undergraduate and master’s degree at Beihang University, supervised by [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). I spent one year as a Predoctoral Young Investigator at AI2, Mosaic Team, working with [Ronan Le Bras](https://allenai.org/team/ronanl) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/). Previously, I interned at Microsoft Research Asia with [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/), and at Bytedance AI Lab with [Jingjing Xu](https://jingjingxu.com/) and [Hang Li](http://www.hangli-hl.com/), and also spent some time working with [Xiang Ren](https://shanzhenren.github.io/) at USC and with [Jian Tang](https://jian-tang.com/) at MILA. Please check my [CV](/files/CV-chunshu.pdf) for further information.
 
-I am actively looking for research collaborations! For master/undergrad students looking for research experience or PhD students looking for collaborations, please send me an email at <wangchunshu.zhou@inf.ethz.ch>.
+I am actively looking for research collaborations! For master/undergrad students looking for research experience or PhD students looking for collaborations, please send me an email at <chunshu@aiwaves.cn>.
 
 
 Research
