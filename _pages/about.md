@@ -15,17 +15,22 @@ I am actively looking for research collaborations! For master/undergrad students
 
 Research
 ======
-My research interest lies in AGI. My current research goal is to bridge the gap between powerful pre-trained large language models (LLMs) such as GPTs and their impact on the lives of humankind, and develop **Language Technology for All**.  
+My research interest lies in AGI. My current research goal is to bridge the gap between powerful pre-trained large language models and their impact on the lives of humankind, and develop **Language Technology for All**.
 
-To achieve this goal and make LLMs more accessible in most people’s lives, I identify two major research topics that I’m interested in: **creative generation** with LLMs (AIGC) and **alignment** of LLMs. Creative text generation with LLMs involves methods to better **control** and **customize** LLMs, and enable **interactive** or **collaborative** text generation. Alignment means aligning LLMs with human values, which includes the **interpretability**, **fairness**, and **safety** of LLMs and their applications.
+To achieve this goal, I identify two major research topics that I’m currently interested in: **content generation** with LLMs and building LLMs that possess **superintelligence**.
 
-Specifically I am interested in the following research topics:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Efficient NLP with LLMs and Learning NLP models from high-level supervision**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Natural language generation, creative text generation, evaluation for NLG models.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Multi-modality**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Commonsense reasoning and knowledge-based reasoning.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Interpretability, explainability, biases, and fairness for NLP models.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Robust NLP models for OOD samples and reducing spurious dataset biases.**  
+Content generation with LLMs involves methods to better **control** and **customize** LLMs to generate desirable texts of **arbitrary length** that are **personalized**, **creative**, and **useful**. I am also interested in improving human-AI interaction in smart writing and build next-generation human-AI **collaborative** writing platform, which is more efficient and deliver smoother experience compared to previous AI-assisted writing systems.
+
+As for superintelligence research, I am passionate about building algorithms that enable AI Agents or LLMs to **self-evolve** either by exploring situated environments or using large scale web corpus. Meanwhile, I also care about the superalignment problem which aim to align superhuman LLMs with human values.
+
+I am also interested in or working in the following subjects:
+
+- Efficient methods for LLMs [8,9,16,17,21,30] and Low resource NLP [6, 10, 11].
+- Generative AI: text generation and its evaluation [1,2-7,12-15,22-25,30,34,36]
+- Language model pre-training and transfer learning for NLP [12,15,32,33].
+- Commonsense reasoning and knowledge-based reasoning [4,12,13,31].
+- Multi-modality [20,22,29,37], text-to-image generation [22].
+
 
 News
 ======
