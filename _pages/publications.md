@@ -7,6 +7,35 @@ author_profile: true
 
 (* indicates equal contribution)
 
+## 2024
+* AutoAct: Automatic Agent Learning from Scratch via Self-Planning    
+  Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, **Wangchunshu Zhou**, Yuchen Eleanor Jiang, chengfei lv, Huajun Chen    
+  *in Proc. of **ACL 2024***
+
+* RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models    
+  Zekun Wang, Z.Y. Peng, Haoran Que, Jiaheng Liu, **Wangchunshu Zhou**, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Jian Yang, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Wenhao Huang, Wenhu Chen, Jie Fu, Junran Peng    
+  *in Proc. of **ACL 2024 (Findings)***
+
+* CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the Generalizability of Large Language Models    
+  Yizhi LI, Ge Zhang, Xingwei Qu, Jiali Li, Zhaoqun Li, Zekun Wang, Hao Li, Ruibin Yuan, Yinghao Ma, Kai Zhang, **Wangchunshu Zhou**, Yiming Liang, Lei Zhang, Lei Ma, Jiajun Zhang, Zuowen Li, Wenhao Huang, Chenghua Lin, Wenhu Chen, Jie Fu    
+  *in Proc. of **ACL 2024 (Findings)***
+
+* LoraRetriever: Input-Aware LoRA Retrieval and Composition for Mixed Tasks in the Wild    
+  Ziyu Zhao, Leilei Gan, Guoyin Wang, **Wangchunshu Zhou**, Hongxia Yang, Kun Kuang, Fei Wu    
+  *in Proc. of **ACL 2024 (Findings)***
+
+* OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models    
+  Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, **Wangchunshu Zhou**, Yang You    
+  *in Proc. of **ICML 2024***
+
+* Struc-Bench: Are Large Language Models Good at Generating Complex Structured Tabular Data   
+  Xiangru Tang, Yiming Zong, Jason Phang, Yilun Zhao, **Wangchunshu Zhou**, Arman Cohan, Mark Gerstein    
+  *in Proc. of **NAACL 2024 (Oral)***
+
+* SmartTrim: Adaptive Tokens and Attention Pruning for Efficient Vision-Language Models  
+  Zekun Wang, Jingchang Chen, **Wangchunshu Zhou**, Haichao Zhu, Jiafeng Liang, Liping Shan, Ming Liu, Dongliang Xu, Qing Yang, Bing Qin  
+  *in Proc. of **COLING 2024*** 
+
 ## 2023
 
 * X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks  
