@@ -19,11 +19,16 @@ Research
 ======
 My research interest lies in AGI. My current research goal is to bridge the gap between powerful pre-trained large language models and their impact on the lives of humankind, and develop **Language Technology for All**.
 
-To achieve this goal, I identify two major research topics that I’m currently interested in: **content generation** with LLMs and building LLMs that possess **superintelligence**.
+To achieve this goal, I identify two major research topics that I’m currently interested in: **content generation** with LLMs and building LLMs and **LLM systems (agents)** to achieve AGI.
+
+Content generation with LLMs involves methods to better **control** and **customize** LLMs to generate desirable texts of **arbitrary length** that are **personalized**, **creative**, and **useful**. I am also interested in improving human-AI interaction in AI-assisted writing and building a next-generation human-AI **collaborative** writing platform.
 
 Content generation with LLMs involves methods to better **control** and **customize** LLMs to generate desirable texts of **arbitrary length** that are **personalized**, **creative**, and **useful**. I am also interested in improving human-AI interaction in smart writing and build next-generation human-AI **collaborative** writing platform, which is more efficient and deliver smoother experience compared to previous AI-assisted writing systems.
 
-As for superintelligence research, I am passionate about building algorithms that enable AI Agents or LLMs to **self-evolve** either by exploring situated environments or using large scale web corpus. Meanwhile, I also care about the superalignment problem which aim to align superhuman LLMs with human values.
+As for AGI research, I am passionate about building algorithms that enable:
+
+- Data-centric AI Agents that can learn from experience and self-evolve after being created and deployed in the wild.
+- LLMs that can self-evolve using large-scale web corpus by iterative data synthesis.
 
 I am also interested in or working in the following subjects:
 
@@ -36,6 +41,12 @@ I am also interested in or working in the following subjects:
 
 News
 ======
+\[2024.5]. Got four papers accepted to **ACL 2024 + Findings**. Thanks to all my collaborators!  
+
+\[2024.4]. Got one paper accepted to **ICML 2024**. Thanks to all my collaborators!  
+
+\[2024.4]. Got one paper accepted to **NAACL 2024**. Thanks to all my collaborators!  
+
 \[2023.10]. Got four papers accepted to **EMNLP 2023 + Findings**. Thanks to all my collaborators!  
 
 \[2023.09]. Got one paper accepted to **NeurIPS 2023**. Thanks to all my collaborators!  
