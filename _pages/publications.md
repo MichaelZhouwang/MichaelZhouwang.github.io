@@ -8,6 +8,19 @@ author_profile: true
 (* indicates equal contribution)
 
 ## 2024
+
+* Enhancing Data Quality via Training Dynamics from Private Domains for Collaborative Fine-Tuning of Large Language Models  
+  Wanru Zhao, Hongxiang Fan, Shell Xu Hu, **Wangchunshu Zhou**, Nicholas Donald Lane    
+  *in Proc. of **NeurIPS 2024***
+
+* PositionID: LLMs can Control Lengths, Copy and Paste with Explicit Positional Awareness    
+  Noah Wang, Feiyu Duan, Yibo Zhang, **Wangchunshu Zhou**, Ke Xu, Wenhao Huang, Jie Fu  
+  *in Proc. of **EMNLP 2024 (Findings)***
+
+* How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs  
+  Haoqin Tu, Chenhang Cui, Zijun Wang, Yiyang Zhou, Bingchen Zhao, Junlin Han, **Wangchunshu Zhou**, Huaxiu Yao, Cihang Xie  
+  *in Proc. of **ECCV 2024***
+
 * AutoAct: Automatic Agent Learning from Scratch via Self-Planning    
   Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, **Wangchunshu Zhou**, Yuchen Eleanor Jiang, chengfei lv, Huajun Chen    
   *in Proc. of **ACL 2024***
