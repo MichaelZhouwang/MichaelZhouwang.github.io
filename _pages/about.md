@@ -28,15 +28,15 @@ Content generation with LLMs involves methods to better **control** and **custom
 As for AGI research, I am passionate about building algorithms that enable:
 
 - Data-centric AI Agents that can learn from experience and self-evolve after being created and deployed in the wild.
-- LLMs that can self-evolve using large-scale web corpus by iterative data synthesis.
+- LLMs that can self-improve without external human supervision.
 
 I am also interested in or working in the following subjects:
 
-- Efficient methods for LLMs [8,9,16,17,21,30] and Low resource NLP [6, 10, 11].
-- Generative AI: text generation and its evaluation [1,2-7,12-15,22-25,30,34,36]
-- Language model pre-training and transfer learning for NLP [12,15,32,33].
-- Commonsense reasoning and knowledge-based reasoning [4,12,13,31].
-- Multi-modality [20,22,29,37], text-to-image generation [22].
+- Efficient methods for LLMs and Low resource NLP.
+- Generative AI: text generation and its evaluation.
+- Language model pre-training and transfer learning for NLP.
+- Commonsense reasoning and knowledge-based reasoning.
+- Multi-modality, text-to-image generation.
 
 
 News
