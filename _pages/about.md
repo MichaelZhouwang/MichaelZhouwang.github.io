@@ -41,6 +41,12 @@ I am also interested in or working in the following subjects:
 
 News
 ======
+\[2024.9]. Got one paper accepted to **NeurIPS 2024**. Thanks to all my collaborators!  
+
+\[2024.9]. Got one paper accepted to **EMNLP 2024 Findings**. Thanks to all my collaborators!  
+
+\[2024.7]. Got one paper accepted to **ECCV 2024**. Thanks to all my collaborators!  
+
 \[2024.5]. Got four papers accepted to **ACL 2024 + Findings**. Thanks to all my collaborators!  
 
 \[2024.4]. Got one paper accepted to **ICML 2024**. Thanks to all my collaborators!  
