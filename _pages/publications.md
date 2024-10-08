@@ -17,6 +17,10 @@ author_profile: true
   Noah Wang, Feiyu Duan, Yibo Zhang, **Wangchunshu Zhou**, Ke Xu, Wenhao Huang, Jie Fu  
   *in Proc. of **EMNLP 2024 (Findings)***
 
+* MIMIR: A Customizable Agent Tuning Platform for Enhanced Scientific Applications      
+  Xiangru Tang, Chunyuan Deng, Hanmin Wang, Haoran Wang, Yilun Zhao, Wenqi Shi, Yi Fung, **Wangchunshu Zhou**, Jiannan Cao, Heng Ji, Arman Cohan, Mark Gerstein  
+  *in Proc. of **EMNLP 2024 Demo***
+
 * How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs  
   Haoqin Tu, Chenhang Cui, Zijun Wang, Yiyang Zhou, Bingchen Zhao, Junlin Han, **Wangchunshu Zhou**, Huaxiu Yao, Cihang Xie  
   *in Proc. of **ECCV 2024***
