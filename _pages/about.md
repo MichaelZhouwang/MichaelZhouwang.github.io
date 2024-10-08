@@ -43,7 +43,7 @@ News
 ======
 \[2024.9]. Got one paper accepted to **NeurIPS 2024**. Thanks to all my collaborators!  
 
-\[2024.9]. Got one paper accepted to **EMNLP 2024 Findings**. Thanks to all my collaborators!  
+\[2024.9]. Got two papers accepted to **EMNLP 2024 Findings and Demo**. Thanks to all my collaborators!  
 
 \[2024.7]. Got one paper accepted to **ECCV 2024**. Thanks to all my collaborators!  
 
