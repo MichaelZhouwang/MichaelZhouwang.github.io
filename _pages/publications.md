@@ -7,6 +7,33 @@ author_profile: true
 
 (* indicates equal contribution)
 
+## 2025
+
+* M+: Extending MemoryLLM with Scalable Long-Term Memory      
+  Yu Wang, Dmitry Krotov, Yuanzhe Hu, Yifan Gao, **Wangchunshu Zhou**, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He  
+  *in Proc. of **ICML 2025**   
+
+* Training-free Periodic Interest Augmentation in Incremental Recommendation    
+  Heyuan Huang, Xingyu Lou, Changwang Zhang, Chaochao Chen, Kuiyao Dong, Feng Lu, Han Lei, Yihao Wang, **Wangchunshu Zhou** and Jun Wang     
+  *in Proc. of **SIGIR 2025**  
+
+* ChemAgent: Self-updating Memories in Large Language Models Improves Chemical Reasoning        
+  Xiangru Tang, Tianyu Hu, Muyang Ye, Yanjun Shao, Xunjian Yin, Siru Ouyang, **Wangchunshu Zhou**, Pan Lu, Zhuosheng Zhang, Yilun Zhao, Arman Cohan, Mark Gerstein    
+  *in Proc. of **ICLR 2025**  
+
+* ML-Bench: Evaluating Large Language Models and Agents for Machine Learning Tasks on Repository-Level Code          
+  Xiangru Tang, Yuliang Liu, Zefan Cai, Yanjun Shao, Junjie Lu, Yichi Zhang, Zexuan Deng, Helan Hu, Kaikai An, Ruijun Huang, Shuzheng Si, Sheng Chen, Haozhe Zhao, Liang Chen, Yan Wang, Tianyu Liu, Zhiwei Jiang, Baobao Chang, Yin Fang, Yujia Qin, **Wangchunshu Zhou**, Yilun Zhao, Arman Cohan, Mark Gerstein    
+  *in Proc. of **AgenticAI @ ICLR 2025**  
+
+* AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions        
+  Ziming Li, Qianbo Zang, David Ma, Jiawei Guo, Tianyu Zheng, Minghao Liu, Xinyao Niu, Yue Wang, Jian Yang, Jiaheng Liu, Wanjun Zhong, **Wangchunshu Zhou**, Stephen Huang, Ge Zhang  
+  *in Proc. of **DL4C @ ICLR 2025**  
+
+* A Comparative Study on Reasoning Patterns of OpenAI’s o1 Model        
+  Siwei Wu, Z.Y. Peng, Xeron Du, Tianyu Zheng, Minghao Liu, Jialong Wu, Jiachen Ma, Yizhi LI, Jian Yang, **Wangchunshu Zhou**, Qunshu Lin, Junbo Zhao, Zhaoxiang Zhang, Stephen Huang, Ge Zhang, Chenghua Lin, Jiaheng Liu    
+  *in Proc. of **SCI-FM @ ICLR 2025**  
+
+
 ## 2024
 
 * Enhancing Data Quality via Training Dynamics from Private Domains for Collaborative Fine-Tuning of Large Language Models  
