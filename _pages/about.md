@@ -20,7 +20,7 @@ Research
 My research interest lies in AGI. In particular, my current research goal is to:
 
 - Build **Personalized** AI systems that can better understand and adapt to the diverse and ever-changing characteristics and preferences of every user. 
-- Build **AI Agents** and **LLMs** that are super capable, helpful for real-world products, and can consistently **self-improve** to achieve "superintelligence".
+- Build **AI Agents** and **LLMs** that are super capable, helpful for real-world products, and can continuously **self-improve** to achieve "superintelligence".
 - Build interactive AI/Agentic systems that redefine conventional workflows for **content creation/consumption** and fully unleash the potential of GenAI for expanding the limit of creativity of mankind. 
 
 I am also interested in or actively working on the following topics:
