@@ -8,39 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Wangchunshu Zhou**. I'm currently leading the Personal AI Team at OPPO AI Center. Before that, I was the cofounder&CTO of [AIWaves Inc.](https://www.aiwaves.org/) I was a Ph.D. student in the Institute of Machine Learning at ETH Zürich advised by [Ryan Cotterell](https://rycolab.io/) and [Mrinmaya Sachan](http://www.mrinmaya.io/). I obtained my undergraduate and master’s degree at Beihang University, supervised by [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). I spent one year as a Predoctoral Young Investigator at AI2, Mosaic Team, working with [Ronan Le Bras](https://allenai.org/team/ronanl) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/). Previously, I interned at Microsoft Research Asia with [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/), and at Bytedance AI Lab with [Jingjing Xu](https://jingjingxu.com/) and [Hang Li](http://www.hangli-hl.com/). I also spent some time working with [Xiang Ren](https://shanzhenren.github.io/) at USC and with [Jian Tang](https://jian-tang.com/) at MILA. Please check my [CV](/files/chunshu_cv_2410.pdf) for further information.
+Hello! I am **Wangchunshu Zhou**. I'm currently the director of the Personal AI Lab at OPPO. Before that, I was the cofounder&CTO of [AIWaves Inc.](https://www.aiwaves.org/) I was a Ph.D. student in the Institute of Machine Learning at ETH Zürich advised by [Ryan Cotterell](https://rycolab.io/) and [Mrinmaya Sachan](http://www.mrinmaya.io/). I obtained my undergraduate and master’s degree at Beihang University, supervised by [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). I spent one year as a Predoctoral Young Investigator at AI2, Mosaic Team, working with [Ronan Le Bras](https://allenai.org/team/ronanl) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/). Previously, I interned at Microsoft Research Asia with [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/) and Furu Wei, and at Bytedance AI Lab with [Jingjing Xu](https://jingjingxu.com/) and [Hang Li](http://www.hangli-hl.com/). I also spent some time working with [Xiang Ren](https://shanzhenren.github.io/) at USC and with [Jian Tang](https://jian-tang.com/) at MILA. Please check my [CV](/files/chunshu_cv_2410.pdf) for further information.
 
-I am actively looking for interns/FTEs at OPPO AI Center. If you are interested in working with us on AI Personalization, LLMs, Agents, Superintelligence & Superalignment, feel free to email me at <zhouwangchunshu@oppo.com> (do not forget to attach your CV).
+I am actively hiring Research Interns and Research Scientists at OPPO Personal AI Lab. If you are interested in working with us on AI Personalization, LLMs, Agents, Superintelligence & Superalignment, feel free to email me at <zhouwangchunshu@oppo.com> (do not forget to attach your CV).
 
-I am also looking for research collaborations! If you share similar research interests with me and are looking for collaborations, feel free to email me at <zhouwangchunshu@oppo.com>.
+I am also looking for research collaborations! If you share similar research interests with me and are looking for research collaborations, feel free to email me at <zhouwangchunshu@oppo.com>.
 
 
 Research
 ======
-My research interest lies in AGI. My current research goal is to bridge the gap between powerful pre-trained large language models and their impact on the lives of humankind, and develop **Language Technology for All**.
+My research interest lies in AGI. In particular, my current research goal is to:
 
-To achieve this goal, I identify two major research topics that I’m currently interested in: **content generation** with LLMs and building LLMs and **LLM systems (agents)** to achieve AGI.
+- Build **Personalized** AI systems that can better understand and adapt to the diverse and ever-changing characteristics and preferences of every user. 
+- Build **AI Agents** and **LLMs** that are super capable, helpful for real-world products, and can consistently **self-improve** to achieve "superintelligence".
+- Build interactive AI/Agentic systems that redefine conventional workflows for **content creation/consumption** and fully unleash the potential of GenAI for expanding the limit of creativity of mankind. 
 
-Content generation with LLMs involves methods to better **control** and **customize** LLMs to generate desirable texts of **arbitrary length** that are **personalized**, **creative**, and **useful**. I am also interested in improving human-AI interaction in AI-assisted writing and building a next-generation human-AI **collaborative** writing platform.
+I am also interested in or actively working on the following topics:
 
-Content generation with LLMs involves methods to better **control** and **customize** LLMs to generate desirable texts of **arbitrary length** that are **personalized**, **creative**, and **useful**. I am also interested in improving human-AI interaction in smart writing and build next-generation human-AI **collaborative** writing platform, which is more efficient and deliver smoother experience compared to previous AI-assisted writing systems.
-
-As for AGI research, I am passionate about building algorithms that enable:
-
-- Data-centric AI Agents that can learn from experience and self-evolve after being created and deployed in the wild.
-- LLMs that can self-improve without external human supervision.
-
-I am also interested in or working in the following subjects:
-
-- Efficient methods for LLMs and Low resource NLP.
-- Generative AI: text generation and its evaluation.
+- Efficient methods for LLMs and Agents.
+- Text Generation and its evaluation.
 - Language model pre-training and transfer learning for NLP.
-- Commonsense reasoning and knowledge-based reasoning.
-- Multi-modality, text-to-image generation.
+- Commonsense reasoning.
+- Multi-modality, text-to-image/video generation, Any-to-Any LLMs.
 
 
 News
 ======
+\[2025.5]. Got one paper accepted to **ICML 2025**. Thanks to all my collaborators!   
+
+\[2025.4]. Delivered [AI Memory](https://www.stdaily.com/web/gdxw/2025-04/11/content_322875.html) for OPPO Find X8 Ultra.  
+
+\[2025.5]. Got one paper accepted to **SIGIR 2025**. Thanks to all my collaborators!   
+
+\[2025.2]. Delivered [AI Local Search](https://support.oppo.com/cn/answer/?aid=2213849)  for OPPO Find N5.  
+
+\[2025.1]. Got one paper accepted to **TMLR**. Thanks to all my collaborators!  
+
+\[2025.1]. Got one paper accepted to **ICLR 2025**. Thanks to all my collaborators!  
+
+\[2024.10]. AIWaves was acquired by OPPO and I joined OPPO!    
+
 \[2024.9]. Got one paper accepted to **NeurIPS 2024**. Thanks to all my collaborators!  
 
 \[2024.9]. Got two papers accepted to **EMNLP 2024 Findings and Demo**. Thanks to all my collaborators!  
