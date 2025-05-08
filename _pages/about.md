@@ -34,7 +34,7 @@ I am also interested in or actively working on the following topics:
 
 News
 ======
-\[2025.5]. Got one paper accepted to **Nature Communication**. Thanks to all my collaborators!   
+\[2025.5]. Got one paper accepted to **Nature Communications**. Thanks to all my collaborators!   
 
 \[2025.5]. Got one paper accepted to **ICML 2025**. Thanks to all my collaborators!  
 
