@@ -9,6 +9,10 @@ author_profile: true
 
 ## 2025
 
+* Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science        
+  Xiangru Tang, Qiao Jin, Kunlun Zhu, Tongxin Yuan, Yichi Zhang, **Wangchunshu Zhou**, Meng Qu, Yilun Zhao, Jian Tang, Zhuosheng Zhang, Arman Cohan, Zhiyong Lu, Mark Gerstein    
+  *in Proc. of **Nature Communications***   
+
 * M+: Extending MemoryLLM with Scalable Long-Term Memory      
   Yu Wang, Dmitry Krotov, Yuanzhe Hu, Yifan Gao, **Wangchunshu Zhou**, Julian McAuley, Dan Gutfreund, Rogerio Feris, Zexue He  
   *in Proc. of **ICML 2025***   
