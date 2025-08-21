@@ -8,6 +8,25 @@ author_profile: true
 (* indicates equal contribution)
 
 ## 2025
+* OAgents: An Empirical Study of Building Effective Agents             
+  He Zhu, Tianrui Qin, King Zhu, Heyuan Huang, Yeyi Guan, Jinxiang Xia, Hanhao Li, Yi Yao, Ningning Wang, Pai Liu, Tianhao Peng, Sunny Gui, LiXiaowan, Yuhui Liu, Xiangru Tang, Jian Yang, Ge Zhang, Xitong Gao, Yuchen Eleanor Jiang, Changwang Zhang, Jun Wang, Jiaheng Liu, **Wangchunshu Zhou**     
+  *in Proc. of **EMNLP 2025 (Findings)***   
+
+* MIO: A Foundation Model on Multimodal Tokens            
+  Zekun Moore Wang, King Zhu, Chunpu Xu, **Wangchunshu Zhou**, Jiaheng Liu, Yibo Zhang, Jiashuo WANG, Ning Shi, Siyu Li, Yizhi LI, Haoran Que, Zhaoxiang Zhang, Yuanxing Zhang, Ge Zhang, Ke Xu, Jie Fu, Wenhao Huang  
+  *in Proc. of **EMNLP 2025***   
+
+* OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use            
+  Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, Meiling Tao, Xiangxin Zhou, Ziyu Zhao, Yuhuai Li, Shengze Xu, Shenzhi Wang, Xinchen Xu, Shuofei Qiao, Zhaokai Wang, Kun Kuang, Tieyong Zeng, Liang Wang, Jiwei Li, Yuchen Eleanor Jiang, **Wangchunshu Zhou**, Guoyin Wang, Keting Yin, Zhou Zhao, Hongxia Yang, Fan Wu, Shengyu Zhang, Fei Wu   
+  *in Proc. of **ACL 2025 (Oral)***   
+
+* PopAlign: Diversifying Contrasting Patterns for a More Comprehensive Alignment          
+  Zekun Moore Wang, Shenzhi Wang, King Zhu, Jiaheng Liu, Ke Xu, Jie Fu, **Wangchunshu Zhou**, Wenhao Huang  
+  *in Proc. of **ACL 2025***   
+
+* Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving          
+  Xiangru Tang, Tianrui Qin, Tianhao Peng, Ziyang Zhou, Daniel Shao, Tingting Du, Xinming Wei, Peng Xia, Fang Wu, He Zhu, Ge Zhang, Jiaheng Liu, Xingyao Wang, Sirui Hong, Chenglin Wu, Hao Cheng, Chi Wang, **Wangchunshu Zhou**      
+  *in Proc. of **CFAgentic @ ICML 2025 (Best Paper Runner Up)*** 
 
 * Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science        
   Xiangru Tang, Qiao Jin, Kunlun Zhu, Tongxin Yuan, Yichi Zhang, **Wangchunshu Zhou**, Meng Qu, Yilun Zhao, Jian Tang, Zhuosheng Zhang, Arman Cohan, Zhiyong Lu, Mark Gerstein    
@@ -23,7 +42,7 @@ author_profile: true
 
 * ChemAgent: Self-updating Memories in Large Language Models Improves Chemical Reasoning        
   Xiangru Tang, Tianyu Hu, Muyang Ye, Yanjun Shao, Xunjian Yin, Siru Ouyang, **Wangchunshu Zhou**, Pan Lu, Zhuosheng Zhang, Yilun Zhao, Arman Cohan, Mark Gerstein    
-  *in Proc. of **ICLR 2025***  
+  *in Proc. of **ICLR 2025***
 
 * ML-Bench: Evaluating Large Language Models and Agents for Machine Learning Tasks on Repository-Level Code          
   Xiangru Tang, Yuliang Liu, Zefan Cai, Yanjun Shao, Junjie Lu, Yichi Zhang, Zexuan Deng, Helan Hu, Kaikai An, Ruijun Huang, Shuzheng Si, Sheng Chen, Haozhe Zhao, Liang Chen, Yan Wang, Tianyu Liu, Zhiwei Jiang, Baobao Chang, Yin Fang, Yujia Qin, **Wangchunshu Zhou**, Yilun Zhao, Arman Cohan, Mark Gerstein    
