@@ -10,7 +10,7 @@ locale                   : "zh-Chinese"
 title                    : "Wangchunshu. Zhou"
 title_separator          : "-"
 name                     : &name "Wangchunshu Zhou"
-description              : &description "Incoming PhD Student at Stanford University"
+description              : &description "Director of OPPO Personal AI Lab"
 url                      : https://MichaelZhouwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MichaelZhouwang.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wangchunshu Zhou"
   avatar           : "chunshu_photo.jpg"
-  bio              : "CS PhD student at ETH Zurich, an NLPer. "
+  bio              : "Director of OPPO Personal AI Lab, building Personal Superintelligence"
   location         : "Zurich"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UebIjuQAAAAJ&hl=zh-CN"
-  email            : "wangchunshu.zhou@inf.ethz.ch"
+  email            : "wcszhou@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
