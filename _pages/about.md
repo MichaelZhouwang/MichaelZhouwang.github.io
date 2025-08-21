@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Wangchunshu Zhou**. I'm currently the director of the Personal AI Lab at OPPO. Before that, I was the cofounder&CTO of [AIWaves Inc.](https://www.aiwaves.org/) I was a Ph.D. student in the Institute of Machine Learning at ETH Zürich advised by [Ryan Cotterell](https://rycolab.io/) and [Mrinmaya Sachan](http://www.mrinmaya.io/). I obtained my undergraduate and master’s degree at Beihang University, supervised by [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). I spent one year as a Predoctoral Young Investigator at AI2, Mosaic Team, working with [Ronan Le Bras](https://allenai.org/team/ronanl) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/). Previously, I interned at Microsoft Research Asia with [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/) and Furu Wei, and at Bytedance AI Lab with [Jingjing Xu](https://jingjingxu.com/) and [Hang Li](http://www.hangli-hl.com/). I also spent some time working with [Xiang Ren](https://shanzhenren.github.io/) at USC and with [Jian Tang](https://jian-tang.com/) at MILA. Please check my [CV](/files/chunshu_cv_2410.pdf) for further information.
+Hello! I am **Wangchunshu Zhou**. I'm currently the director of the Personal AI Lab at OPPO, building Personal Superintelligence. Before that, I was the co-founder and CTO of [AIWaves Inc.](https://www.aiwaves.org/). I was a PhD student in the Institute of Machine Learning at ETH Zürich, advised by [Ryan Cotterell](https://rycolab.io/) and [Mrinmaya Sachan](http://www.mrinmaya.io/). I obtained my undergraduate and master's degrees at Beihang University, supervised by [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). Before my PhD study, I spent one year as a Predoctoral Young Investigator at AI2, Mosaic Team, working with [Ronan Le Bras](https://allenai.org/team/ronanl) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/) and one year at Bytedance AI Lab as a research scientist, working with [Jingjing Xu](https://jingjingxu.com/) and [Hang Li](http://www.hangli-hl.com/). During my master's study, I interned at Microsoft Research Asia with [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/) and Furu Wei, and also spent some time working with [Xiang Ren](https://shanzhenren.github.io/) at USC and with [Jian Tang](https://jian-tang.com/) at MILA.
 
 I am actively hiring Research Scientists, LLM Engineers, and Research Interns at OPPO Personal AI Lab. If you are interested in working with us on AI Personalization, LLMs, Agents, Superintelligence & Superalignment, feel free to email me at <zhouwangchunshu@oppo.com> (do not forget to attach your CV).
 
@@ -19,9 +19,9 @@ Research
 ======
 My research interest lies in AGI. In particular, my current research goal is to:
 
-- Build **Personalized** AI systems that can better understand and adapt to the diverse and ever-changing characteristics and preferences of every user. 
-- Build **AI Agents** and **LLMs** that are super capable, helpful for real-world products, and can continuously **self-improve** to achieve "superintelligence".
-- Build interactive AI/Agentic systems that redefine conventional workflows for **content creation/consumption** and fully unleash the potential of GenAI for expanding the limit of creativity of mankind. 
+- Build **Personalized** AI systems that manage personal contexts so that we can better understand and adapt to the diverse and ever-changing characteristics and preferences of every user. 
+- Build **self-evolving AI Agents** and **LLMs** that are super capable, helpful for real-world products, and can continuously **self-improve** to achieve "superintelligence".
+- Build interactive AI/Agentic systems that redefine conventional workflows for **content creation/consumption** and fully unleash the potential of GenAI for expanding the limits of creativity of mankind. 
 
 I am also interested in or actively working on the following topics:
 
@@ -34,6 +34,12 @@ I am also interested in or actively working on the following topics:
 
 News
 ======
+\[2025.8]. Got two papers accepted to **EMNLP 2025 + Findings**. Thanks to all my collaborators!   
+
+\[2025.8]. The AgentKB paper won the **Best Paper Runner-Up** Award at the ICML 2025 CFAgentic Workshop. Thanks to all my collaborators!   
+
+\[2025.6]. Got two papers accepted to **ACL 2025**. Thanks to all my collaborators!   
+
 \[2025.5]. Got one paper accepted to **Nature Communications**. Thanks to all my collaborators!   
 
 \[2025.5]. Got one paper accepted to **ICML 2025**. Thanks to all my collaborators!  
