@@ -22,7 +22,7 @@ author_profile: true
 
 * MIO: A Foundation Model on Multimodal Tokens            
   Zekun Moore Wang, King Zhu, Chunpu Xu, **Wangchunshu Zhou**, Jiaheng Liu, Yibo Zhang, Jiashuo WANG, Ning Shi, Siyu Li, Yizhi LI, Haoran Que, Zhaoxiang Zhang, Yuanxing Zhang, Ge Zhang, Ke Xu, Jie Fu, Wenhao Huang  
-  *in Proc. of **EMNLP 2025***   
+  *in Proc. of **EMNLP 2025 (Oral)***   
 
 * OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use            
   Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, Meiling Tao, Xiangxin Zhou, Ziyu Zhao, Yuhuai Li, Shengze Xu, Shenzhi Wang, Xinchen Xu, Shuofei Qiao, Zhaokai Wang, Kun Kuang, Tieyong Zeng, Liang Wang, Jiwei Li, Yuchen Eleanor Jiang, **Wangchunshu Zhou**, Guoyin Wang, Keting Yin, Zhou Zhao, Hongxia Yang, Fan Wu, Shengyu Zhang, Fei Wu   
