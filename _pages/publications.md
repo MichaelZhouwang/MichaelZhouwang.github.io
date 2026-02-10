@@ -7,6 +7,48 @@ author_profile: true
 
 (* indicates equal contribution)
 
+## 2026
+* A2FM: An Adaptive Agent Foundation Model for Tool-Aware Hybrid Reasoning                 
+  Qianben Chen, Jingyi Cao, Jiayu Zhang, Tianrui Qin, Xiaowan Li, King Zhu, Dingfeng Shi, He Zhu, Minghao Liu, Xiaobo Liang, Ge Zhang, Jian Yang, Yuchen Eleanor Jiang, **Wangchunshu Zhou**       
+  *in Proc. of **ICLR 2026***	
+
+* Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution                 
+  Tianrui Qin, Qianben Chen, Sinuo Wang, He Xing, King Zhu, He Zhu, Dingfeng Shi, Xinxin Liu, Ge Zhang, Jiaheng Liu, Xitong Gao, Yuchen Eleanor Jiang, **Wangchunshu Zhou**       
+  *in Proc. of **ICLR 2026***	
+
+* Towards Personalized Deep Research: Benchmarks and Evaluations                 
+  Yuan Liang, Jiaxian Li, Yuqing Wang, Piaohong Wang, Motong Tian, Pai Liu, Shuofei Qiao, Runnan Fang, He Zhu, Ge Zhang, Minghao Liu, Yuchen Eleanor Jiang, Ningyu Zhang, **Wangchunshu Zhou**       
+  *in Proc. of **ICLR 2026***
+  
+* TaskCraft: Automated Generation of Agentic Tasks               
+  Dingfeng Shi, Jingyi Cao, Qianben Chen, Weichen Sun, Weizhen Li, Hongxuan Lu, Fangchen Dong, Tianrui Qin, King Zhu, Minghao Liu, Yuchen Eleanor Jiang, Jian Yang, Ge Zhang, Jiaheng Liu, Changwang Zhang, Jun Wang, **Wangchunshu Zhou**       
+  *in Proc. of **ICLR 2026***
+
+* ACADREASON: Exploring the Limits of Reasoning Models with Academic Research Problems             
+  Xin Gui, King Zhu, JinCheng Ren, Qianben Chen, Zekun Moore Wang, Yizhi LI, Xinpeng Liu, REN WENLI, Linyu Miao, Tianrui Qin, Ziqi Shu, He Zhu, Dingfeng Shi, Jiaheng Liu, Yuchen Eleanor Jiang, Minghao Liu, Ge Zhang, **Wangchunshu Zhou**       
+  *in Proc. of **ICLR 2026***
+
+* Reverse-Engineered Reasoning for Open-Ended Generation           
+  Haozhe Wang, Haoran Que, Qixin Xu, Minghao Liu, **Wangchunshu Zhou**, Jiazhan Feng, Wanjun Zhong, Wei Ye, Tong Yang, Wenhao Huang, Ge Zhang, Fangzhen Lin     
+  *in Proc. of **ICLR 2026***
+  
+* IV-Bench: A Benchmark for Image-Grounded Video Perception and Reasoning in Multimodal LLMs         
+  David Ma, Yuanxing Zhang, JinCheng Ren, Jiawei Guo, Yifan Yao, Zhenlin Wei, Zhenzhu Yang, Zhongyuan Peng, Boyu Feng, Jun Ma, Xiao Gu, King Zhu, Zhoufutu Wen, Yancheng He, Meng Cao, **Wangchunshu Zhou**, Shiwen Ni, Jiaheng Liu, Wenhao Huang, Ge Zhang, Xiaojie Jin   
+  *in Proc. of **ICLR 2026*** 
+
+* ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding       
+  David Ma, Huaqing Yuan, Xingjian Wang, Qianbo Zang, Tianci Liu, Xinyang He, Yanbin Wei, Jiawei Guo, Jiahui Ni, Zhenzhu Yang, Meng Cao, Shanghaoran Quan, Yizhi LI, **Wangchunshu Zhou**, Jiaheng Liu, Wenhao Huang, Ge Zhang, Shiwen Ni, Xiaojie Jin   
+  *in Proc. of **ICLR 2026*** 
+
+* AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?            
+  Guibin Zhang, Junhao Wang, Junjie Chen, **Wangchunshu Zhou**, Kun Wang, Shuicheng Yan   
+  *in Proc. of **ICLR 2026*** 
+
+* COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values            
+  Siwei Wu, JinCheng Ren, Xeron Du, Shuyue Guo, Xingwei Qu, Yiming Liang, Jie Liu, Yunwen Li, Tyler Loakman, Tianyu Zheng, Boyu Feng, Huaqing Yuan, Zili Wang, Jiaheng Liu, Wenhao Huang, Chenglin Cai, Haoran Que, Jian Yang, Yuelin Bai, Zekun Moore Wang, Zhouliang Yu, Qunshu Lin, Ding Pan, Yuchen Eleanor Jiang, Tiannan Wang, **Wangchunshu Zhou**, Shenzhi Wang, Xingyuan Bu, Minghao Liu, Guoyin Wang, Ge Zhang, Chenghua Lin   
+  *in Proc. of **NEACL 2026 (Findings)*** 
+
+
 ## 2025
 * SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines              
   Xeron Du, Yifan Yao, Kaijing Ma, Bingli Wang, Tianyu Zheng, King Zhu, Minghao Liu, Yiming Liang, Xiaolong Jin, Zhenlin Wei, Chujie Zheng, Kaixin Deng, Shuyue Guo, Shian Jia, Sichao Jiang, Yiyan Liao, Rui Li, Qinrui Li, Sirun Li, Yizhi LI, Yunwen Li, dehua ma, Yuansheng Ni, Haoran Que, Qiyao Wang, Zhoufutu Wen, Siwei Wu, Tianshun Xing, Ming Xu, Zhenzhu Yang, Zekun Moore Wang, Junting Zhou, yuelin bai, Xingyuan Bu, chenglin cai, Liang Chen, Yifan Chen, Cheng Chengtuo, Tianhao Cheng, Keyi Ding, Siming Huang, Yun-Huang, Yaoru Li, Yizhe Li, Zhaoqun Li, Tianhao Liang, Chengdong Lin, Hongquan Lin, Yinghao Ma, Z.Y. Peng, Zifan Peng, Qige Qi, Shi Qiu, Xingwei Qu, Shanghaoran Quan, Yizhou Tan, Zili Wang, Chenqing Wang, Hao Wang, Yiya Wang, Yubo Wang, Jiajun Xu, Kexin Yang, Ruibin Yuan, Yuanhao Yue, Tianyang Zhan, Chun Zhang, Jinyang Zhang, Xiyue Zhang, Owen Xingjian Zhang, Yue Zhang, Yongchi Zhao, Xiangyu Zheng, ChenghuaZhong, Yang Gao, Zhoujun Li, Dayiheng Liu, Qian Liu, Tianyu Liu, Shiwen Ni, Junran Peng, Yujia Qin, Wenbo Su, Guoyin Wang, Shi Wang, Jian Yang, Min Yang, Meng Cao, Xiang Yue, Zhaoxiang Zhang, **Wangchunshu Zhou**, Jiaheng Liu, Qunshu Lin, Wenhao Huang, Ge Zhang   
