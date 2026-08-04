@@ -46,7 +46,19 @@ author_profile: true
 
 * COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values            
   Siwei Wu, JinCheng Ren, Xeron Du, Shuyue Guo, Xingwei Qu, Yiming Liang, Jie Liu, Yunwen Li, Tyler Loakman, Tianyu Zheng, Boyu Feng, Huaqing Yuan, Zili Wang, Jiaheng Liu, Wenhao Huang, Chenglin Cai, Haoran Que, Jian Yang, Yuelin Bai, Zekun Moore Wang, Zhouliang Yu, Qunshu Lin, Ding Pan, Yuchen Eleanor Jiang, Tiannan Wang, **Wangchunshu Zhou**, Shenzhi Wang, Xingyuan Bu, Minghao Liu, Guoyin Wang, Ge Zhang, Chenghua Lin   
-  *in Proc. of **NEACL 2026 (Findings)*** 
+  *in Proc. of **EACL 2026 (Findings)*** 
+
+* EVOLVING ROLLOUTS: Harnessing Historical Experience for Web Agent Evolution in Reinforcement Learning            
+  Sinuo Wang, Piaohong Wang, Tianrui Qin, Maojia Song, Qianben Chen, Qiexiang Wang, Gengze Zhou, Zeyu Zhang, He Zhu, Dingfeng Shi, Yutong Xie, Minghao Liu, Jiaheng Liu, Ge Zhang, Jiawei Ma, Yuchen Eleanor Jiang, Qi Wu, **Wangchunshu Zhou**       
+  *in Proc. of **ICML 2026*** 
+
+* TreePO: Enhancing Policy Efficacy and Inference Efficiency with Tree Modeling            
+  Yizhi LI, Qingshui Gu, Zhoufutu Wen, Ziniu Li, Ruibin Yuan, Tianshun Xing, Shuyue Guo, Tuney Zheng, Xin Zhou, Xingwei Qu, **Wangchunshu Zhou**, Zheng Zhang, Wei Shen, Wei Xue, Qian Liu, Chenghua Lin, Jian Yang, Ge Zhang, Wenhao Huang       
+  *in Proc. of **ICML 2026*** 
+
+* MemEvolve: Meta-Evolution of Agent Memory Systems            
+  Guibin Zhang, Haotian Ren, Chong Zhan, Junhao Wang, He Zhu, **Wangchunshu Zhou**, Shuicheng YAN       
+  *in Proc. of **ICML 2026*** 
 
 
 ## 2025
