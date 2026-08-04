@@ -8,25 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Wangchunshu Zhou**. I'm currently the director of the Personal AI Lab at OPPO, building Personal Superintelligence. Before that, I was the co-founder and CTO of [AIWaves Inc.](https://www.aiwaves.org/). I was a PhD student in the Institute of Machine Learning at ETH Zürich, advised by [Ryan Cotterell](https://rycolab.io/) and [Mrinmaya Sachan](http://www.mrinmaya.io/). I obtained my undergraduate and master's degrees at Beihang University, supervised by [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). Before my PhD study, I spent one year as a Predoctoral Young Investigator at AI2, Mosaic Team, working with [Ronan Le Bras](https://allenai.org/team/ronanl) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/) and one year at Bytedance AI Lab as a research scientist, working with [Jingjing Xu](https://jingjingxu.com/) and [Hang Li](http://www.hangli-hl.com/). During my master's study, I interned at Microsoft Research Asia with [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/) and Furu Wei, and also spent some time working with [Xiang Ren](https://shanzhenren.github.io/) at USC and with [Jian Tang](https://jian-tang.com/) at MILA.
+Hello! I am **Wangchunshu Zhou**. I am currently the head of Dreamina at ByteDance. I am working on product-research co-design for general creative agents. My current work focuses on building agentic systems for creative workflows, with an emphasis on making reinforcement learning work in non-verifiable domains and realizing recursive self-improvement (RSI) in practical product settings. 
 
-I am actively hiring Research Scientists, LLM Engineers, and Research Interns at OPPO Personal AI Lab. If you are interested in working with us on AI Personalization, LLMs, Agents, Superintelligence & Superalignment, feel free to email me at <zhouwangchunshu@oppo.com> (do not forget to attach your CV).
+Before joining ByteDance, I was the director of the Personal AI Lab at OPPO, building Personal Superintelligence. Before that, I was the co-founder and CTO of [AIWaves Inc.](https://www.aiwaves.org/). I was a PhD student in the Institute of Machine Learning at ETH Zürich, advised by [Ryan Cotterell](https://rycolab.io/) and [Mrinmaya Sachan](http://www.mrinmaya.io/). I obtained my undergraduate and master's degrees at Beihang University, supervised by [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). Before my PhD study, I spent one year as a Predoctoral Young Investigator at AI2, Mosaic Team, working with [Ronan Le Bras](https://allenai.org/team/ronanl) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/) and one year at Bytedance AI Lab as a research scientist, working with [Jingjing Xu](https://jingjingxu.com/) and [Hang Li](http://www.hangli-hl.com/). During my master's study, I interned at Microsoft Research Asia with [Tao Ge](https://www.microsoft.com/en-us/research/people/tage/) and Furu Wei, and also spent some time working with [Xiang Ren](https://shanzhenren.github.io/) at USC and with [Jian Tang](https://jian-tang.com/) at MILA.
 
-I am also looking for research collaborations! If you share similar research interests with me and are looking for research collaborations, feel free to email me at <zhouwangchunshu@oppo.com>.
+I am looking for research collaborations and strong builders interested in content-creation agents, non-verifiable RL, agent learning, and RSI. If you share similar interests, feel free to email me at <wcszhou@outlook.com>.
 
 
 Research
 ======
 My research interest lies in AGI. In particular, my current research goal is to:
-
-- Build **Personalized** AI systems that manage personal contexts so that we can better understand and adapt to the diverse and ever-changing characteristics and preferences of every user. 
-- Build **self-evolving AI Agents** and **LLMs** that are super capable, helpful for real-world products, and can continuously **self-improve** to achieve "superintelligence".
-- Build interactive AI/Agentic systems that redefine conventional workflows for **content creation/consumption** and fully unleash the potential of GenAI for expanding the limits of creativity of mankind. 
-
+- Build **general autonomous agents** through **product-research co-design**
+- **Agentic Reinforcement Learning** in **non-verifiable scenarios**, especially in real-world product environments.
+- Build **self-evolving AI Agents** and **LLMs** that can continuously **self-improve** toward recursive self-improvement (RSI) in practical systems.
+  
 I am also interested in or actively working on the following topics:
 
 - Efficient methods for LLMs and Agents.
 - Text Generation and its evaluation.
+- Personalization and user/context modeling for creative AI systems.
 - Language model pre-training and transfer learning for NLP.
 - Commonsense reasoning.
 - Multi-modality, text-to-image/video generation, Any-to-Any LLMs.

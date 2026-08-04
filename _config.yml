@@ -10,7 +10,7 @@ locale                   : "zh-Chinese"
 title                    : "Wangchunshu. Zhou"
 title_separator          : "-"
 name                     : &name "Wangchunshu Zhou"
-description              : &description "Director of OPPO Personal AI Lab"
+description              : &description "ByteDance, Dreamina"
 url                      : https://MichaelZhouwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MichaelZhouwang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wangchunshu Zhou"
   avatar           : "chunshu_photo.jpg"
-  bio              : "Director of OPPO Personal AI Lab"
+  bio              : "ByteDance, Dreamina"
   location         : "Zurich"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
