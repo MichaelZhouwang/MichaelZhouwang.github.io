@@ -8,6 +8,14 @@ author_profile: true
 (* indicates equal contribution)
 
 ## 2026
+* OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation            
+  Guibin Zhang, Xun Xu, Yanwei Yue, Zikun Su, **Wangchunshu Zhou**, Xiaobin Hu, Shuicheng YAN       
+  *in Proc. of **EMNLP 2026 (Findings)***
+
+* Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning            
+  Meiling Tao, Chenghao Zhu, Dongyi Ding, Tiannan Wang, Yuchen Eleanor Jiang, **Wangchunshu Zhou**       
+  *in Proc. of **EMNLP 2026 (Findings)***
+
 * EVOLVING ROLLOUTS: Harnessing Historical Experience for Web Agent Evolution in Reinforcement Learning            
   Sinuo Wang, Piaohong Wang, Tianrui Qin, Maojia Song, Qianben Chen, Qiexiang Wang, Gengze Zhou, Zeyu Zhang, He Zhu, Dingfeng Shi, Yutong Xie, Minghao Liu, Jiaheng Liu, Ge Zhang, Jiawei Ma, Yuchen Eleanor Jiang, Qi Wu, **Wangchunshu Zhou**       
   *in Proc. of **ICML 2026*** 
