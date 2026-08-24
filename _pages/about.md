@@ -34,6 +34,8 @@ I am also interested in or actively working on the following topics:
 
 News
 ======
+\[2026]. Got two papers accepted to **EMNLP 2026 Findings**. Thanks to all my collaborators!   
+
 \[2026]. Got three papers accepted to **ICML 2026**. Thanks to all my collaborators!   
 
 \[2026]. Got nine papers accepted to **ICLR 2026**. Thanks to all my collaborators!   
